@@ -23,4 +23,4 @@ Via Command Line:
 
 2)In the Unity Hub in the projects section click on add. Then go to the folder called DJ-Corona-Killer and you will see another folder called DJ Corona Killer. Select that folder and click open.
 
-Hope You have fun with the project!!!
+# Hope You have fun with the project!!!
