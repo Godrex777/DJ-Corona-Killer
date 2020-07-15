@@ -6,4 +6,6 @@ This is my half made or a quater made or less than that Unity project. You all c
 
 Hope you have fun with the project!!!
 
-# How to setup the project
+# How to setup the project:
+
+# For Windows:
