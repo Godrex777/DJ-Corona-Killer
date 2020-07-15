@@ -1,7 +1,5 @@
 # DJ-Corona-Killer
-<div align="center">
-<img src="Images/DJ-img" width="500"/>
- </div>
+![](DJ-img)
 
 
 
