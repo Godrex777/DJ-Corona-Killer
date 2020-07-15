@@ -9,3 +9,5 @@ Hope you have fun with the project!!!
 # How to setup the project:
 
 For Windows:
+
+Via Zip file: 
