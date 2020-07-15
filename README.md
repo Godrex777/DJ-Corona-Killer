@@ -1,5 +1,5 @@
 # DJ-Corona-Killer
-![]("DJ-img")
+![]("Images/DJ-img")
 
 
 
