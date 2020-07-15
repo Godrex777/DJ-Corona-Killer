@@ -1,5 +1,5 @@
 # DJ-Corona-Killer
-![](Images/DJ-img) 
+![](Images/Screen%20Shot%202020-07-15%20at%203.13.35%20PM.png) 
 
 
 
