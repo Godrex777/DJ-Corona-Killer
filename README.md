@@ -8,4 +8,4 @@ Hope you have fun with the project!!!
 
 # How to setup the project:
 
-# For Windows:
+For Windows:
