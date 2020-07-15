@@ -1,6 +1,6 @@
 # DJ-Corona-Killer
 <div align="center">
-![](Images/Screen%20Shot%202020-07-15%20at%203.13.35%20PM.png)
+
   
 <img src="Images/DJ-img" width="450"/>
  </div>
