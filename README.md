@@ -22,7 +22,9 @@ Via Zip file:
 2)In the Unity Hub in the projects section click on add. Then go to the folder called DJ-Corona-Killer and you will see another folder called DJ Corona Killer. Select that folder and click open.
 
 <pre>Note: We recomend cloning via command line and make sure you have git lfs intstalled in your computer. Because we are not sure that 
-you will be able to clone everything(shaders, meshes etc). If you don't have git lfs installed you can do it from [here](https://git-lfs.github.com/)</pre>
+you will be able to clone everything(shaders, meshes etc).
+If you don't have git lfs installed you can do it from [here](https://git-lfs.github.com/)
+</pre>
 
 Via Command Line:
 
