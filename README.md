@@ -23,7 +23,7 @@ Via Zip file:
 
 <pre>Note: We recomend cloning via command line and make sure you have git lfs intstalled in your computer.
 
-Because we are not surethat you will be able to clone everything (shaders, meshes etc).If you don't have
+Because we are not sure that you will be able to clone everything (shaders, meshes etc).If you don't have
 
 git lfs installed you can do it from <a href="https://git-lfs.github.com/">here</a>
 </pre>
