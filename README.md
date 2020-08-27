@@ -19,6 +19,8 @@ Via Zip file:
 
 2)In the Unity Hub in the projects section click on add. Then go to the folder called DJ-Corona-Killer and you will see another folder called DJ Corona Killer. Select that folder and click open.
 
+Note: We recomend cloning via command line and make sure you have git lfs intstalled in your computer. Because we are not sure that you will be able to clone everything(shaders, meshes etc). If you don't have git lfs installed you can do it from [here](https://git-lfs.github.com/)
+
 Via Command Line:
 
 1)In the command line  first type cd and then copy the path in which folder you want to save the project. Press Enter/Return.
